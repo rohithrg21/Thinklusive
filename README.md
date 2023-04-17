@@ -1,4 +1,4 @@
 # Thinklusive
 Project tool
-lmnjkbuhbuhn
-mn
+Informatica
+ETL Tool
